@@ -32,10 +32,12 @@ Testado em: MacBook Air M5 · macOS 27.0.1 · CrossOver 26.3 · GPTK 4.0 beta 3.
 
 ```bash
 curl -fsSL -o ~/Downloads/install-gaming-mac.sh \
-  https://raw.githubusercontent.com/<usuario>/<repositorio>/main/install-gaming-mac.sh
+  https://raw.githubusercontent.com/ecszin/mac-gaming/main/install-gaming-mac.sh
 chmod +x ~/Downloads/install-gaming-mac.sh
 ~/Downloads/install-gaming-mac.sh
 ```
+
+Ou baixe manualmente pelo navegador: [install-gaming-mac.sh](https://github.com/ecszin/mac-gaming/blob/main/install-gaming-mac.sh) → botão **Download raw file** → salve em `~/Downloads` e rode os dois últimos comandos acima.
 
 Na primeira execução o script:
 
