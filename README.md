@@ -1,4 +1,4 @@
-# MacGaming — Steam + CrossOver + NotProton + GPTK no macOS
+# MacGaming — Steam + CrossOver + NotProton + GPTK4 no macOS
 
 Script único, com menu interativo, para **instalar, atualizar, verificar, reverter e desinstalar** o conjunto que permite rodar jogos Windows da Steam em Macs com Apple Silicon:
 
